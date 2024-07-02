@@ -15,8 +15,8 @@
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Contacta conmigo en Discord">
   </a>
   
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Contacta conmigo en Instagram">
+  <a href="#https://x.com/Jesus24Dev" target="_blank">
+      <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FJesus24Dev" alt="Contacta conmigo en Twitter">
   </a>
   
   <a href="https://www.linkedin.com/in/jesus-sirit-b94037266/" target="_blank">
