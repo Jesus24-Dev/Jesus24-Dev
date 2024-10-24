@@ -8,19 +8,19 @@
 <br> 
 <p align="center">
   <a href="mailto:siritjesus24@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacta conmigo">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Contacta conmigo" width="50px">
   </a>
   
   <a href="https://discordapp.com/users/siritjesus_04" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Contacta conmigo en Discord">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Contacta conmigo en Discord" width="50px">
   </a>
   
-  <a href="#https://x.com/Jesus24Dev" target="_blank">
-      <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FJesus24Dev" alt="Contacta conmigo en Twitter">
+  <a href="https://x.com/Jesus24Dev" target="_blank">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="Contacta conmigo en Twitter" width="50px">
   </a>
   
   <a href="https://www.linkedin.com/in/jesus-sirit-b94037266/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contacta conmigo en LinkedIn">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Contacta conmigo en LinkedIn" width="50px">
   </a>
 </p>
 
@@ -35,11 +35,15 @@
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="50px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="50px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite" width="50px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50px">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50px">
 
+
 ## Frameworks <img src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/programming.svg" width="30px">
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="ExpressJS" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" alt="ElectronJS" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="50px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="ExpressJS" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="SpringBoot" width="50px"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" alt="Sequelize" width="50px">
+
