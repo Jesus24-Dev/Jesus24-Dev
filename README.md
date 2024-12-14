@@ -4,7 +4,7 @@
   </blockquote>
 
 ## About me <img src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif" width="30px">
-- **COMPUTER SCIENCE'S STUDENT**
+- **ASSOCIATE'S DEGREE IN COMPUTER SCIENCE**
 - **CURRENTLY:** Developing web applications in Java and NodeJS-ExpressJS :computer:
 - **INTEREST IN:** Office automation, Process optimization and Operating systems. :wrench: :neckbeard:
 - **HOBBIES:** Boxing :punch: & Learn everyday. :books:
